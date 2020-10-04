@@ -17,12 +17,12 @@ dependencies:
   meta: ^1.1.5
   jaguar_resty:
     git:
-      url: git://github.com/anton9088-ros/client.git
+      url: git://github.com/itopt/client.git
       path: resty
       ref: dio-2
   jaguar_retrofit:
     git:
-      url: git://github.com/anton9088-ros/client.git
+      url: git://github.com/itopt/client.git
       path: retrofit
       ref: dio-2
 
